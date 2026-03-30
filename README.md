@@ -1,1 +1,1 @@
-# its a basic calculator made by using html
+# A basic calculator made by using HTML 
